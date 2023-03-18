@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Onekalit
-- 👀 I’m interested in math
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m @Ocaya
+- 👀 I’m a Mathematician
+- 🌱 I am currently taking apart an arduino uno board and eavesdropping on the lkml 
 - 📫 How to reach me ocayacharles1@gmail.com
 
 <!---
